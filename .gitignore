@@ -1,0 +1,29 @@
+# node_modules/
+# .env
+# logs/
+# *.log
+# dist/
+# build/
+# .DS_Store
+# venv/
+# __pycache__/
+# *.pyc
+# .env
+# node_modules/
+
+# venv/
+# __pycache__/
+# *.pyc
+
+
+
+node_modules/
+venv/
+.env
+logs/
+*.log
+dist/
+build/
+__pycache__/
+*.pyc
+.DS_Store
